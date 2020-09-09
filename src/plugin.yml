@@ -1,0 +1,4 @@
+main: me.ninjego.Plugin.Main
+name: VaderChatCaptcha
+version: 1.0
+author: Ninjego

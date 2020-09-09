@@ -1,0 +1,7 @@
+message: "&9Vader > &b Type "
+
+correct-message: "&9Vader > Succefully Completed Captcha"
+
+incorrect-message: "&9Vader > Incorrect Captcha"
+
+kick-message: "&cYou have failed Captcha"
